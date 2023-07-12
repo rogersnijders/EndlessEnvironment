@@ -42,18 +42,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Achterste
-    uniqueID: 3587718567
-    locked: 0
-  - name: Achter
+  - name: Layer_Camera
     uniqueID: 3775445825
     locked: 0
-  - name: midden
+  - name: Layer0
+    uniqueID: 2688569155
+    locked: 0
+  - name: Layer1
     uniqueID: 1582617573
     locked: 0
-  - name: player
+  - name: Layer2_Player
     uniqueID: 2102524639
     locked: 0
-  - name: voor
+  - name: Layer3
     uniqueID: 3594231959
     locked: 0
