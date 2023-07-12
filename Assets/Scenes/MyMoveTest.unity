@@ -191,10 +191,10 @@ MonoBehaviour:
   - {fileID: 1125708096}
   - {fileID: 2064939043}
   parallaxFactors:
+  - 80
+  - 50
   - 30
-  - 25
-  - 15
-  - 5
+  - 10
   smoothing: 1
 --- !u!4 &330228143
 Transform:
